@@ -9,9 +9,9 @@
 		"rangedStrength": 360,
 		"range": 5,
 		"cost": 0,
-		"requiredTech": "Pottery",
-		"requiredResource": "Stone",
-		"promotions": ["Logistics","Accuracy I"],
+		
+	
+	        "promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
 ]
