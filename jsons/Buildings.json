@@ -1,25 +1,26 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Giant Dildo",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"uniqueTo": "Xloric",
+		"cost": 5,
+		"happiness": 120,
+		"culture": 120,
+		"science": 120,
+		"maintenance": 0,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
+		"name": "Doom Plug",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
+		"uniqueTo": "Xloric",
+		"cost": 8,
 		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"happiness": 200,
+		"gold": 750
+		"uniques": ["150% of food is carried over after a new citizen is born"],
+		"requiredTech": "Pottery"
 	}
 ]
