@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Arse Thruster",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"uniqueTo": "Xloric",
+		"replaces": "Warrior",
+		"movement": 12,
+		"strength": 900,
+		"rangedStrength": 360,
+		"range": 5,
+		"cost": 0,
+		"requiredTech": "Pottery",
+		"requiredResource": "Stone",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
