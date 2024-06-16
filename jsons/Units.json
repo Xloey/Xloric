@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Arse Thruster",
-		"unitType": "Ranged",
+		"unitType": "Melee",
 		"uniqueTo": "Xloric",
 		"replaces": "Warrior",
 		"movement": 12,
