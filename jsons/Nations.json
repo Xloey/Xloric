@@ -3,7 +3,7 @@
 		"name": "Xloric",
 		"leaderName": "Xlo",
 		"adjective": ["Xlorician"],
-		"startBias": ["River"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "You gone and fucked up",
@@ -27,8 +27,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [0,0,0],
+		"innerColor": [149,0,0],
 		"unique": "Marijuana Bush of Life",
 		"cities": ["Xlorica","Zoetopia","Max²","Bobbyland","Kimlantis","Deborahka","BoB","Titz","Chevy",
 			"Promise","Rebba","Heaven","Fancy","Avalancia","Ryeland","Marytopia","Kaidia","Evanja","OsErs",
