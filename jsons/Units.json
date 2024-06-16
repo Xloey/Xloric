@@ -3,7 +3,6 @@
 		"name": "Arse Thruster",
 		"unitType": "Melee",
 		"uniqueTo": "Xloric",
-		"replaces": "Warrior",
 		"movement": 12,
 		"strength": 900,
 		"rangedStrength": 360,
