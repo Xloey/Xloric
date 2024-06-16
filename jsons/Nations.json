@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Xloric",
+		"leaderName": "Xlo",
+		"adjective": ["Xlorician"],
+		"startBias": ["River"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "You gone and fucked up",
+		"startIntroPart2": "Now that we met you die",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"declaringWar": "Resistance is futile!",
 		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"defeated": "Your racist as we lost",
+		"introduction": "Non available",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -29,10 +29,10 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"unique": "Marijuana Bush of Life",
+		"cities": ["Xlorica","Zoetopia","Max²","Bobbyland","Kimlantis","Deborahka","BoB","Titz","Chevy",
+			"Promise","Rebba","Heaven","Fancy","Avalancia","Ryeland","Marytopia","Kaidia","Evanja","OsErs",
+			"Zulgra","Vahars","Crindith","Raavraes","Pq⁴","Qru","Jeep","Fuckoffa","Youdicka","Nopolis",
+			"Dhihien","Naquiel","Ugneon","Straquks","Nulptr","Ohfahl"]
 	}
 ]
