@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Arse Thruster",
-		"unitType": "Melee",
+		"unitType": "Range",
 		"uniqueTo": "Xloric",
-		"movement": 12,
-		"strength": 900,
-		"rangedStrength": 360,
+		"movement": 3,
+		"strength": 35,
+		"rangedStrength": 25,
 		"range": 5,
-		"cost": 0,
+		"cost": 1,
 		
 	
 	        "promotions": ["Logistics","Accuracy I"],
